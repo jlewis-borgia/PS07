@@ -43,7 +43,7 @@ ggplot(data = contributions2, mapping = aes(x= entity_tp, y = sum,
   facet_wrap(~ cand_pty_affiliation)
 ```
 
-## Summary of Vizualization
+## A Summary of The Vizualization
 
 This graph shows the contributions to Democratic and Republican candidates in the 2016 general election separated by the type of entity which was contributing. 
 
